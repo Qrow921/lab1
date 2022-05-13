@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Mileshkin Sergey
+Main-Class: com.company.FirstClass
+
